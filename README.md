@@ -5,7 +5,6 @@ Hello, I'm Harun. I'm currently studying Electronics and Communication Engineeri
 - Blog site project [ :red_circle: karunland/CoreBlog](http://karunland.eastus.cloudapp.azure.com:5011/)
 - Engineering Design Project - 1 [karunland/muhtas1](https://github.com/karunland/muhtas1)
 - Engineering Design Project - 1 [ :red_circle: karunland/muhtas2](http://karunland.eastus.cloudapp.azure.com:5005/)
-- 🌱 Techs **Stm32, ASP.Net Core**
  
 <h3 align="left">Links: </h3>
 <p align="left">
