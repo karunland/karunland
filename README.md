@@ -4,7 +4,7 @@ Hello, I'm Harun. I'm currently studying Electronics and Communication Engineeri
 ### Projects
 - Blog site project [ :red_circle: karunland/CoreBlog](http://blog.karunlander.net)
 - Engineering Design Project - 1 [karunland/muhtas1](https://github.com/karunland/muhtas1)
-- Engineering Design Project - 2 [ :red_circle: karunland/muhtas2](http://muhtas2.karunlander.net:5005/)
+- Engineering Design Project - 2 [ :red_circle: karunland/muhtas2](http://muhtas2.karunlander.net)
  
 <h3 align="left">Links: </h3>
 <p align="left">
