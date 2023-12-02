@@ -2,9 +2,9 @@
 Hello, I'm Harun, studying Electronics and Communication Engineering at Kocaeli University. I'm also a Microsoft Learn Student Ambassador at my university. I am currently developing web projects using .NET. I work on small projects related to Web, Embedded systems, and Cloud, and I also organize workshops and Live Tutorial sessions at my Uni. 
 
 ### Projects
-- Blog site project [ :red_circle: karunland/CoreBlog](http://blog.karunlander.net)
+- Blog site project [ :red_circle: karunland/CoreBlog](https://blog.karunlander.net)
 - Engineering Design Project - 1 [karunland/muhtas1](https://github.com/karunland/muhtas1)
-- Engineering Design Project - 2 [ :red_circle: karunland/muhtas2](http://muhtas2.karunlander.net)
+- Engineering Design Project - 2 [ :red_circle: karunland/muhtas2](https://muhtas2.karunlander.net)
  
 <h3 align="left">Links: </h3>
 <p align="left">
