@@ -1,5 +1,5 @@
 ### About me
-Hello, I'm Harun, studying Electronics and Communication Engineering at Kocaeli University. I'm also a Microsoft Learn Student Ambassador at my university. I am currently developing web projects using .NET. I work on small projects related to Web, Embedded systems, and Cloud, and I also organize workshops and Live Tutorial sessions at my Uni. 
+Hello, I'm Harun, I am student at Kocaeli Uni., also a Microsoft Learn Student Ambassador. 
 
 ### Projects
 - Blog site project [ :red_circle: blog.karunlander.net](https://blog.karunlander.net)
