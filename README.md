@@ -1,7 +1,7 @@
 ### About me
 Hello, I'm Harun, I am student at Kocaeli Uni., also a Microsoft Learn Student Ambassador. 
 
-### Projects
+### homeworks
 - Blog site project [ :red_circle: blog.karunlander.net](https://blog.karunlander.net)
 - Engineering Design Project - 1 [karunland/muhtas1](https://github.com/karunland/muhtas1)
 - Engineering Design Project - 2 [ :red_circle: muhtas2.karunlander.net](https://muhtas2.karunlander.net)
