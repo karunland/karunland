@@ -1,5 +1,5 @@
 ### About me
-Hello, I'm Harun, I am student at Kocaeli Uni., also a Microsoft Learn Student Ambassador. 
+Hello, I'm Harun, I am student at Kocaeli Uni., also Beta Microsoft Learn Student Ambassador. 
 
 ### homeworks
 - Blog site project [ :red_circle: blog.karunlander.net](https://blog.karunlander.net)
